@@ -44,6 +44,16 @@ Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
 - Melhorar a experiência do usuário
 
 ---
+## ▶️ Como Executar
+
+1. Instale o Python.
+2. Baixe o arquivo `calculadora.py`.
+3. Execute no terminal:
+
+```bash
+py calculadora.py
+```
+``
 
 ## 👨‍💻 Autor
 
