@@ -53,7 +53,6 @@ Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
 ```bash
 py calculadora.py
 ```
-``
 
 ## 👨‍💻 Autor
 
